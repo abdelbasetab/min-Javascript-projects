@@ -86,3 +86,13 @@ body {
     font-size: 28px;
     margin-top: 6px;
 }
+.weather {
+    display: none;
+}
+.invalid {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 14px;
+    display: none;
+}
